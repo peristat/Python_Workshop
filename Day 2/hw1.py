@@ -1,3 +1,5 @@
+#! /usr/bin python3.12
+
 #Build a CLI User Manager:
 #Add user(name, age)
 #List all user
